@@ -22,9 +22,6 @@ Estudiante de educación media superior apasionado por la programación y el des
 ## Contacto
 - Correo electrónico:
 
---- 
-# Change Lenguage
----
 # 💫 About Me:
 # WindB3NJA
 High school student passionate about programming and web development. I have experience in HTML, CSS and JavaScript, with which I have created the Platzi project called Mokepon, a role-playing game inspired by Pokémon. Soon I will be making a Minecraft Java mod, and then a project not yet planned with Python oriented to artificial intelligence. I like to learn about these topics and I am interested in the branch of computer science of the back-end. I want to learn more about Python, Ruby, Java, JavaScript and other languages that allow me to be a back-end programmer.
