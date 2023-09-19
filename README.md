@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 # WindB3NJA
 Estudiante de educación media superior apasionado por la programación y el desarrollo web. Tengo experiencia en HTML, CSS y JavaScript, con los que he creado el proyecto de Platzi llamado Mokepon, un juego de rol inspirado en Pokémon. Pronto estaré haciendo un mod de Minecraft Java, para luego hacer un proyecto todavía no planeado con Python orientado a la inteligencia artificial. Me gusta aprender de estos temas y estoy interesado en la rama de la informática del back-end. Quiero aprender más sobre Python, Ruby, Java, JavaScript y otros lenguajes que me permitan ser un programador back-end.
 
@@ -25,7 +25,7 @@ Estudiante de educación media superior apasionado por la programación y el des
 --- 
 # Change Lenguage
 ---
-
+# 💫 About Me:
 # WindB3NJA
 High school student passionate about programming and web development. I have experience in HTML, CSS and JavaScript, with which I have created the Platzi project called Mokepon, a role-playing game inspired by Pokémon. Soon I will be making a Minecraft Java mod, and then a project not yet planned with Python oriented to artificial intelligence. I like to learn about these topics and I am interested in the branch of computer science of the back-end. I want to learn more about Python, Ruby, Java, JavaScript and other languages that allow me to be a back-end programmer.
 
