@@ -1,6 +1,53 @@
 # 💫 About Me:
-# WindB3NJA<br>Estudiante de educación media superior apasionado por la programación y el desarrollo web. Tengo experiencia en HTML, CSS y JavaScript, con los que he creado el proyecto de Platzi llamado Mokepon, un juego de rol inspirado en Pokémon. Pronto estaré haciendo un mod de Minecraft Java, para luego hacer un proyecto todavía no planeado con Python orientado a la inteligencia artificial. Me gusta aprender de estos temas y estoy interesado en la rama de la informática del back-end. Quiero aprender más sobre Python, Ruby, Java, JavaScript y otros lenguajes que me permitan ser un programador back-end.<br><br>## Habilidades<br>- HTML (Medio)<br>- CSS (Medio)<br>- JavaScript (Medio)<br>- Python (Medio)<br><br>## Lenguajes que próximamente aprenderé<br>- Python (Avanzado)<br>- JavaScript (Avanzado)<br>- Ruby<br>- Java<br><br>## Proyectos<br>- [Mokepon]: Un juego de rol basado en Pokémon, hecho con HTML, CSS y JavaScript. Es un proyecto del curso de Platzi de Desarrollo Web Online.<br>- [Mod de Minecraft Java]: Un mod que añade nuevas criaturas, objetos y mecánicas al juego de Minecraft Java. Está en desarrollo y lo estoy haciendo con Java.<br>- [Proyecto de Python e IA]: Un proyecto que tiene como objetivo aplicar la inteligencia artificial a algún problema o situación. Todavía no está definido el tema ni el alcance, pero lo estoy haciendo con Python.<br><br>## Contacto<br>- Correo electrónico:<br>- GitHub: @WindB3NJA<br>- YouTube: @windb3nja<br><br>--- <br># Change Lenguage<br>---<br><br># WindB3NJA<br>High school student passionate about programming and web development. I have experience in HTML, CSS and JavaScript, with which I have created the Platzi project called Mokepon, a role-playing game inspired by Pokémon. Soon I will be making a Minecraft Java mod, and then a project not yet planned with Python oriented to artificial intelligence. I like to learn about these topics and I am interested in the branch of computer science of the back-end. I want to learn more about Python, Ruby, Java, JavaScript and other languages that allow me to be a back-end programmer.<br><br>## Skills<br>- HTML (Medium)<br>- CSS (Medium)<br>- JavaScript (Medium)<br>- Python (Medium)<br><br>## Languages that I will learn soon<br>- Python (Advanced)<br>- JavaScript (Advanced)<br>- Ruby<br>- Java<br><br>## Projects<br>- [Mokepon]: A role-playing game based on Pokémon, made with HTML, CSS and JavaScript. It is a project of the Platzi course of Online Web Development.<br>- [Minecraft Java Mod]: A mod that adds new creatures, objects and mechanics to the Minecraft Java game. It is in development and I am doing it with Java.<br>- [Python and AI Project]: A project that aims to apply artificial intelligence to some problem or situation. The topic and scope are not yet defined, but I am doing it with Python.<br><br>## Contact<br>- Email: <br>- GitHub: @WindB3NJA<br>- YouTube: @windb3nja<br><br><br>
+# WindB3NJA
+Estudiante de educación media superior apasionado por la programación y el desarrollo web. Tengo experiencia en HTML, CSS y JavaScript, con los que he creado el proyecto de Platzi llamado Mokepon, un juego de rol inspirado en Pokémon. Pronto estaré haciendo un mod de Minecraft Java, para luego hacer un proyecto todavía no planeado con Python orientado a la inteligencia artificial. Me gusta aprender de estos temas y estoy interesado en la rama de la informática del back-end. Quiero aprender más sobre Python, Ruby, Java, JavaScript y otros lenguajes que me permitan ser un programador back-end.
 
+## Habilidades
+- HTML (Medio)
+- CSS (Medio)
+- JavaScript (Medio)
+- Python (Medio)
+
+## Lenguajes que próximamente aprenderé
+- Python (Avanzado)
+- JavaScript (Avanzado)
+- Ruby
+- Java
+
+## Proyectos
+- [Mokepon]: Un juego de rol basado en Pokémon, hecho con HTML, CSS y JavaScript. Es un proyecto del curso de Platzi de Desarrollo Web Online.
+- [Mod de Minecraft Java]: Un mod que añade nuevas criaturas, objetos y mecánicas al juego de Minecraft Java. Está en desarrollo y lo estoy haciendo con Java.
+- [Proyecto de Python e IA]: Un proyecto que tiene como objetivo aplicar la inteligencia artificial a algún problema o situación. Todavía no está definido el tema ni el alcance, pero lo estoy haciendo con Python.
+
+## Contacto
+- Correo electrónico:
+
+--- 
+# Change Lenguage
+---
+
+# WindB3NJA
+High school student passionate about programming and web development. I have experience in HTML, CSS and JavaScript, with which I have created the Platzi project called Mokepon, a role-playing game inspired by Pokémon. Soon I will be making a Minecraft Java mod, and then a project not yet planned with Python oriented to artificial intelligence. I like to learn about these topics and I am interested in the branch of computer science of the back-end. I want to learn more about Python, Ruby, Java, JavaScript and other languages that allow me to be a back-end programmer.
+
+## Skills
+- HTML (Medium)
+- CSS (Medium)
+- JavaScript (Medium)
+- Python (Medium)
+
+## Languages that I will learn soon
+- Python (Advanced)
+- JavaScript (Advanced)
+- Ruby
+- Java
+
+## Projects
+- [Mokepon]: A role-playing game based on Pokémon, made with HTML, CSS and JavaScript. It is a project of the Platzi course of Online Web Development.
+- [Minecraft Java Mod]: A mod that adds new creatures, objects and mechanics to the Minecraft Java game. It is in development and I am doing it with Java.
+- [Python and AI Project]: A project that aims to apply artificial intelligence to some problem or situation. The topic and scope are not yet defined, but I am doing it with Python.
+
+## Contact
+- Email: 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Windb3nja.dev) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Wind_B3NJA) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/windb3nja) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@windb3nja) 
