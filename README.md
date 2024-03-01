@@ -9,7 +9,7 @@
 # 💫 Sobre mi:
 
 # WindB3NJA🍃
-Estudiante universitario de ingeneria informatica apasionado por las computadoras.
+Estudiante universitario de ingeneria informatica apasionado por las computadoras y las conexiones significativas con otras personas ;)
 
 ## 📞 Contacto
 - Correo electrónico: windb3nja@gmail.com
