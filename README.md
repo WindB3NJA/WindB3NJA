@@ -1,14 +1,7 @@
 ## 📊 Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WindB3NJA&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ![](https://github-readme-stats.vercel.app/api?username=WindB3NJA&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=WindB3NJA&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-
-
+![](https://github-readme-stats.vercel.app/api?username=WindB3NJA&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WindB3NJA&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 # 💫 Sobre mi:
-
 # WindB3NJA🍃
 Estudiante universitario de ingeneria informatica apasionado por las computadoras y las conexiones significativas con otras personas ;)
 
