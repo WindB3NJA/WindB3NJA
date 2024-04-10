@@ -1,7 +1,3 @@
-# 💫 Sobre mi:
-# WindB3NJA🍃
-Soy Estudiante Universitario de Ingeneria Civil Informatica en Chile, Apasionado por el mundo de las computadoras y las tecnologias de IA, y creo en el uso de las tecnologias de IA para mejorar la calidad de vida de las personas.
-
 ## 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=WindB3NJA&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WindB3NJA&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
