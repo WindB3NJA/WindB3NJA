@@ -3,7 +3,7 @@ I'm an ambitious computer science student at San Sebastian University, my passio
 
 ## ⏳ I'm currently
 - 📝 Learning on platzi : Curso de Productividad y Organización
-- 🛠️ Developing: a chat bot
+- 🛠️ Developing: Spatial understanding
 - 💡 Thinking: about daily problems to solve with software  
 
 
