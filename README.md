@@ -6,6 +6,7 @@ I'm an ambitious computer science student at San Sebastian University, my passio
 - 🛠️ Developing: Spatial understanding
 - 💡 Thinking: about daily problems to solve with software  
 
-
+## 🤔 What i know?
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 ## 📊 Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WindB3NJA&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
