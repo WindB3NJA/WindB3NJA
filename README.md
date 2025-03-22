@@ -3,7 +3,7 @@ I'm an ambitious computer science student at San Sebastian University, my passio
 
 ## ⏳ I'm currently
 - 📝 Learning on platzi: Curso de Manejo de Emociones para la Productividad y la Organización
-- 🛠️ Developing: Ecomerce 
+- 🛠️ Developing: Awesome app for mobile 
 - 💡 Thinking: how to improve people's quality of life through software  
 
 ## 🤔 What i know?
