@@ -2,7 +2,7 @@
 I'm an ambitious computer science student at San Sebastian University, my passion is to develop applications that help improve people's quality of life through AI and software engineering.
 
 ## ⏳ I'm currently
-- 📝 Learning on platzi: Curso de Manejo de Emociones para la Productividad y la Organización
+- 📝 Learning on platzi: Curso Scrum
 - 🛠️ Developing: Awesome app for mobile 
 - 💡 Thinking: how to improve people's quality of life through software  
 
